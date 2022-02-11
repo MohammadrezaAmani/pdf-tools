@@ -1,8 +1,8 @@
-#---------------------------show photo in terminal----------------------------
+#---------------------------pdf To image----------------------------
 # author: Mohammadreza Amani
 # GitHub: https://www.github.com/MohammadrezaAmani
 # Linkedin: https://www.linkedin.com/in/mohammadreza-amani/
-# Date: 2021/11/18
+# Date: 2021/02/12
 #---------------------------------code----------------------------------------
 
 from pdf2image import convert_from_path
