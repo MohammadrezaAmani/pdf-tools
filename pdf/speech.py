@@ -3,7 +3,7 @@
 # GitHub: https://www.github.com/MohammadrezaAmani
 # Linkedin: https://www.linkedin.com/in/mohammadreza-amani/
 # Date: 2021/02/12
-# ---------------------------------logic----------------------------------------
+# ---------------------------------logic-------------------------------
 
 import logging
 
