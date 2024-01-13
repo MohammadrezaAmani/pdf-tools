@@ -1,0 +1,4 @@
+pytesseract
+pdf2image
+gtts
+playsound
